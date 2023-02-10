@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				188,
+				-102
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "note down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				59
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "note up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				-19
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "note right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "note left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pedro",
+	"position": [
+		0,
+		220
+	],
+	"healthicon": "back",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		30,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
