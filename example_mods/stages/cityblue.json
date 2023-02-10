@@ -1,0 +1,35 @@
+{
+	"girlfriend": [
+		400,
+		130
+	],
+	"boyfriend": [
+		770,
+		100
+	],
+	"isPixelStage": false,
+	"opponent": [
+		100,
+		100
+	],
+	"directory": "",
+	"defaultZoom": 0.9,
+	"layers": [
+		{
+			"onFront": false,
+			"image": "cenario",
+			"flipX": false,
+			"scrollfactor": [
+				1,
+				1
+			],
+			"name": "cenario",
+			"animation": "",
+			"offset": [
+				-1128,
+				-228
+			],
+			"scale": 1
+		}
+	]
+}
